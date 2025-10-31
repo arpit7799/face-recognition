@@ -102,7 +102,7 @@ This project is open-source and available under the MIT License.
 ### ✅ To Add It
 Run these commands in your terminal:
 ```bash
-echo "<paste the above content here>" > README.md
+echo "Face Recognition using OpenCV and face_recognition">
 git add README.md
 git commit -m "Added professional README"
 git push
