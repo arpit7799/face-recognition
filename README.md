@@ -83,9 +83,9 @@ Face_Recognition/
 👤 Author
 
 Arpit Pandey
-B.Tech CSE (Cloud Computing) @ BML Munjal University
+B.Tech CSE @ BML Munjal University
 💡 Passionate about AI, Cloud, and Real-world Applications
-📧 Connect on LinkedIn￼
+📧 Connect on LinkedIn￼www.linkedin.com/in/arpit-pandey-a26211320
 
 ⸻
 
